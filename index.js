@@ -28,8 +28,8 @@ var funkyFunction = function() {
 }
 
 // 
-var theFunk = funkyFunction()
-theFunk = "FUNKY!"
+var theFunk = funkyFunction()()
+
 
   
 
